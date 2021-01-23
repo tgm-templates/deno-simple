@@ -10,7 +10,7 @@
     "jsxFactory": "React.createElement",
     "jsxFragmentFactory": "React.Fragment",
     "lib": [
-      "ES2020"
+      "ESNext"
     ],
     "noFallthroughCasesInSwitch": false,
     "noImplicitAny": true,
