@@ -99,5 +99,5 @@ modules.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/code,jetbrains+all
 
-bindings/lib.deno.unstable.d.ts
+typings/lib.deno.unstable.d.ts
 
