@@ -8,8 +8,8 @@ native-compile:
 
 # setup dev environment
 setup:
-   mkdir -p bindings
-   deno types --unstable > ./bindings/lib.deno.unstable.d.ts
+   mkdir -p typings
+   deno types --unstable > ./typings/lib.deno.unstable.d.ts
 
 # Docker image build
 image-build:
