@@ -27,6 +27,13 @@
     "strictPropertyInitialization": true,
     "strictNullChecks": true,
     "suppressExcessPropertyErrors": false,
-    "suppressImplicitAnyIndexErrors": false
+    "suppressImplicitAnyIndexErrors": false,
+    "plugins": [
+      {
+        "name": "typescript-deno-plugin",
+        "enable": true,
+        "importmap": "import_map.json"
+      }
+    ]
   }
 }
